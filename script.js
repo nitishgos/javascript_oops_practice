@@ -130,7 +130,7 @@ e.leaverequest(3);*/
 let ani=new Animal("jack");
 ani.legs()*/
 // getters setters instanceof
-class Animal{
+/*class Animal{
     constructor(name){
         this._name=name
     }
@@ -151,5 +151,6 @@ a.name="jimmy";
 console.log(a.name);
 let c=66;
 console.log(a instanceof Animal);
-console.log(c instanceof Animal);
+console.log(c instanceof Animal);*/
+
 
